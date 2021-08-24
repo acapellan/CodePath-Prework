@@ -2,9 +2,9 @@
 
 **Tip-Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Alejandro Capellan**
+Submitted by: **acapellan**
 
-Time spent: **2** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -18,17 +18,23 @@ The following **optional** features are implemented:
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ X] Added a slider for a custom tip percentage
+- [ X] Added label to show custom tip percentage from the slider
+- [X] Enlarged fields to fit more characters
+- [ X] Fixed bug where the user had to select another percentage in the tip control bar before being able to select 15%
+- [ X] Added label to show custom tip percentage from the slider
+
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/QMIToCo.gif)
+![](https://i.imgur.com/tcsGxy0.gif)
 
 
 GIF created with [ezgif]
@@ -40,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [acapellan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
